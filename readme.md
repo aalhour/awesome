@@ -18,7 +18,7 @@
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
 </p>
 
 <br>
@@ -31,9 +31,12 @@
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
 <br>
+
+<h4 align="center"><a href="https://www.producthunt.com/posts/refined-twitter">Support my work with the Awesome project and open source in general</a></h4>
+<br>
 -->
 
-<h4 align="center"><a href="https://www.patreon.com/sindresorhus">Support my work with the Awesome project and open source in general</a></h4>
+<h4 align="center">🌈<br><a href="https://www.producthunt.com/posts/gifski">Convert videos to high-quality GIFs with this free & open source Mac app I made</a></h4>
 <br>
 
 <p align="center">
@@ -518,7 +521,7 @@
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
-- [Transit](https://github.com/luqmaan/awesome-transit)
+- [Transit](https://github.com/CUTR-at-USF/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/awesome-share)
@@ -566,7 +569,6 @@
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
-- [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
